@@ -1,3 +1,3 @@
 ﻿var fn = function(){
-	alert("test");
+	alert("test0002");
 }
